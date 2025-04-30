@@ -1,2 +1,2 @@
-genomes hg38
+genome hg38
 trackDb trackDb.txt
