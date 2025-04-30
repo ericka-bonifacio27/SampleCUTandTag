@@ -1,5 +1,5 @@
 hub SampleCUTandTagHub
 shortLabel CUTandTag Hub
 longLabel Track Hub for CUTandTag BigWig Files
-genomeFiles genome.txt
+genomeFiles genomes.txt
 email Ericka.bonifacio@ucdconnect.ie
