@@ -1,5 +1,5 @@
 track IPSC_H3K27ac
-type bigwig
+type bigWig
 shortLabel iPSC H3K27ac
 longLabel CUTandTag signal - iPSCs H3K27ac
 bigDataUrl https://raw.githubusercontent.com/ericka-bonifacio27/SampleCUTandTag/main/BigWig/IPSC_H3K27ac.rmDup.bigWig
@@ -7,7 +7,7 @@ visibility full
 autoScale on
 
 track IPSC_H3K27me3
-type bigwig
+type bigWig
 shortLabel iPSC H3K27me3
 longLabel CUTandTag signal - iPSCs H3K27me3
 bigDataUrl https://raw.githubusercontent.com/ericka-bonifacio27/SampleCUTandTag/main/BigWig/IPSC_H3K27me3.rmDup.bigWig
@@ -15,7 +15,7 @@ visibility full
 autoScale on
 
 track D7_H3K27ac
-type bigwig
+type bigWig
 shortLabel D7 H3K27ac
 longLabel CUTandTag signal - Day 7 H3K27ac
 bigDataUrl https://raw.githubusercontent.com/ericka-bonifacio27/SampleCUTandTag/main/BigWig/D7_H3K27ac.rmDup.bigWig
@@ -23,7 +23,7 @@ visibility full
 autoScale on
 
 track D7_H3K27me3
-type bigwig
+type bigWig
 shortLabel D7 H3K27me3
 longLabel CUTandTag signal - Day 7 H3K27me3
 bigDataUrl https://raw.githubusercontent.com/ericka-bonifacio27/SampleCUTandTag/main/BigWig/D7_H3K27me3.rmDup.bigWig
